@@ -1,0 +1,38 @@
+
+
+body{
+	background-color: grey;
+}
+
+h2{
+ 
+	background: crimson;
+	color: Gold;
+	font-size: 28px;
+	font-weight: 500;
+	text-transform: uppercase; 
+	text-align: left;
+	font-family: georgia;
+}
+
+
+u{
+	color:midnightblue;
+}
+
+
+ol{
+	color: Green;
+}
+
+
+Center{
+	color: purple;
+}
+
+
+li{
+	color: Maroon;
+}
+
+
